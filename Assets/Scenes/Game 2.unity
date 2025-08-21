@@ -11669,6 +11669,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 472888980}
     m_Modifications:
+    - target: {fileID: 4574662245818121877, guid: bd8038639010f4d45bdb0b4abf1d3405, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4574662245818121877, guid: bd8038639010f4d45bdb0b4abf1d3405, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -1477311807
+      objectReference: {fileID: 0}
     - target: {fileID: 5443170454429050614, guid: bd8038639010f4d45bdb0b4abf1d3405, type: 3}
       propertyPath: m_Name
       value: Fan
